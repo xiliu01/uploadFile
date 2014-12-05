@@ -5,9 +5,9 @@ uploadFile
 
 使用步骤
 ----------
-1.安装cordova相机、文件以及文件上传的三个插件
-2.在util中添加UploadUtils.js文件
-3.引入ETFramework.util.Uuid文件
+1. 安装cordova相机、文件以及文件上传的三个插件
+2. 在util中添加UploadUtils.js文件
+3. 引入ETFramework.util.Uuid文件
 
 上传的问题以及解决机制
 1.概述及问题：
